@@ -25,7 +25,7 @@ More info : [ROBOTIS-eManual](https://emanual.robotis.com/docs/en/platform/turtl
 4. Download the firmware and loader, then extract the file.
 
    ```
-   $ wget https://github.com/zhl017/OpenCR-Binaries/...
+   $ wget https://github.com/zhl017/OpenCR-Binaries/raw/idm-devel/turtlebot3_idm_custom/ROS1/latest/opencr_update.tar.bz2
    $ tar -xvf opencr_update.tar.bz2
    ```
 
