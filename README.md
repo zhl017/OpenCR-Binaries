@@ -19,7 +19,7 @@ More info : [ROBOTIS-eManual](https://emanual.robotis.com/docs/en/platform/turtl
    ```
    $ export OPENCR_PORT=/dev/ttyACM0
    $ export OPENCR_MODEL=burger_noetic    # change model name what you want to download.
-   $ rm -rf ./opencr_update.tar.bz2
+   $ rm -rf ./opencr_update.tar.bz2 && rm opencr_update.tar.bz2
    ```
 
 4. Download the firmware and loader, then extract the file.
