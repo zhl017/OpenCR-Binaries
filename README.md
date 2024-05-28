@@ -19,14 +19,14 @@ More info : [ROBOTIS-eManual](https://emanual.robotis.com/docs/en/platform/turtl
    ```
    $ export OPENCR_PORT=/dev/ttyACM0
    $ export OPENCR_MODEL=burger_noetic    # change model name what you want to download.
-   $ rm -rf ./opencr_update.tar.bz2 && rm opencr_update.tar.bz2
+   $ rm -rf ./opencr_update.tar.bz2
    ```
 
 4. Download the firmware and loader, then extract the file.
 
    ```
    $ wget https://github.com/zhl017/OpenCR-Binaries/raw/idm-devel/turtlebot3_idm_custom/ROS1/latest/opencr_update.tar.bz2
-   $ tar -xvf opencr_update.tar.bz2
+   $ tar -xvf opencr_update.tar.bz2 && rm opencr_update.tar.bz2
    ```
 
 5. Upload firmware to the OpenCR.
