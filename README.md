@@ -43,7 +43,7 @@ More info : [ROBOTIS-eManual](https://emanual.robotis.com/docs/en/platform/turtl
 - ROS1 F/W idm-0.0.2 (2024. May. 28th)
    - Add TB3 ROS1 om_with_mecanum core 
 
-- ROS1 F/W idm-2.3.8 (2023. Aug. 17th)
+- ROS1 F/W idm-0.0.1 (2023. Aug. 17th)
    - Add turtlebot3_idm_custom
       - Add TB3 ROS1 mecanum example
       - Add TB3 ROS1 fet example
